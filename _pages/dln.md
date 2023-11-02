@@ -2,7 +2,7 @@
 title: "Digital Literacy Narrative"
 layout: dln
 permalink: /dln/
-author_profile: true
+author_profile: false
 ---
 
 Navigating the Digital Wilderness: My Journey into Digital Humanities
