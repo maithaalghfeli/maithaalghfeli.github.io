@@ -1,6 +1,5 @@
 ---
 title: "Digital Literacy Narrative"
-layout: dln
 permalink: /dln/
 author_profile: false
 ---
