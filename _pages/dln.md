@@ -1,4 +1,11 @@
-Title: Navigating the Digital Wilderness: My Journey into Digital Humanities
+---
+title: "Digital Literacy Narrative"
+layout: dln
+permalink: /dln/
+author_profile: true
+---
+
+Navigating the Digital Wilderness: My Journey into Digital Humanities
 
 As a 20-year-old university student, I embarked on a new academic adventure this semester: an introductory course in Digital Humanities. Little did I know that it would transform the way I perceive, interact with, and create content in the digital realm. This narrative explores my evolving digital literacy journey, the strategies I employ in my daily and academic life, and my aspirations for what lies ahead.
 
