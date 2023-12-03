@@ -26,11 +26,32 @@ For the second part of this exercise, I made sure to choose a culture that had a
 
 I chose the Moroccan culture off of the CSV file titled All_Culture_information.csv which had a total of 28 object entries. Twenty-eight objects gives me a large enough pool of information to compare while still staying somewhat small enough to look at every object closely.  
 
-![Image from Posit Cloud.](/image/A1-P2-1.png.jpeg)
+![Image from Posit Cloud.](/image/A1-P2-1.png)
 
 Since Moroccan culture has existed for over a thousand years, I avoided specifying a century in the initial run of the program as I wanted to see what time period the objects collected by the Harvard Art Museum came from or whether they were periodically spread out. I started with the descending classification of Moroccan culture to get a sense of what people were intrigued by or searched for more. 
 
-![Image from Posit Cloud.](/image/A1-P2-2.png.jpeg)
+![Image from Posit Cloud.](/image/A1-P2-2.png)
+
+These were my top results for the descending classification. The first 17 pieces were viewed by others whilst the remaining 11 were not viewed by anyone. Observing the initial spread of information, I can see that Moroccan work is not that popular with viewers of the website as the most viewed item has a mere 200 viewers. Now this can be for a number of reasons including potentially the piece being only exhibited for a short period of time in the museum physically. Another intriguing observation about the spread on Posit Cloud was that the least viewed items came from the same artist as the most viewed item. 
+
+![Image from Posit Cloud.](/image/A1-P2-3.png)
+
+Upon further inspection, the reason for the same artist’s work also showing up as part of the least viewed items in Moroccan culture is the lack of photographs on the object’s information page. But I also realised that it related back to the object’s accession year as well. Essaydi’s Revisited piece was acquired by the Harvard Art Museum just this year, 2023, as a gift from Donald and Alison Weiss making it a relatively newer addition to the website hence explaining the lack of image documentation of the piece as well as the low page view count. 
+
+![Image from Posit Cloud.](/image/A1-P2-4.jpg)
+
+Since all the object entries with 0 page views were of Lalla Essaydi’s work contrasting against her piece Les Femmes Du Maroc #45 being the most viewed in the culture, I wanted to see whether there was a pattern relating to the page views correlating to the accession year by the museum. All 11 pieces with 0 views by Essaydi were either gifted by Donald and Alison Weiss or Jeffrey Hugh Newman in 2023. All the 11 pieces are new additions not only to the museum’s collection but to the website as well with no photographic documentation of the piece. It makes me wonder whether the lack of photography is because the pieces are yet to be exhibited physically in the museum creating an aura of mystique to the art before being displayed. Does an artwork need to be exhibited to qualify for a full breakdown of the piece on the site? In contrast Les Femmes Du Maroc #45 was acquired by the museum in 2009 explaining why it has a lot more views than the other pieces of the same collection. Having made that distinction on pageviews moving parallel to the accession year in Essaydi’s work, I wanted to see whether the other pieces in the Moroccan culture were affected by the same pattern. 
+
+Initially just looking at the spread of objects on Posit Cloud, I can see that all the pieces unrelated to Essaydi were either textiles or pottery fragments. The pieces did not follow the same pattern as Essaydi’s work however, since all of them were acquired before the 2000s even as early as 1916 it made sense as to why they had higher page views even when photographic documentation was not available. These pieces have existed in the Museum for a long time therefore connecting their ownership to the museum. I believe that as archaeologists search for pieces from the Moroccan culture, knowing how long some of them have been in the museum’s possession the Museum has possibly built a repertoire of owning the fragments and being a stable resource for researchers to check the pieces out. 
+
+This method of parsing through a culture was very eye opening to me. As a type A person myself, I enjoy classification more than anything, and being able to pinpoint all objects within a specific tag instead of individually finding them on the website was very helpful. It makes understanding acquisition patterns at museums a lot simpler to analyse. 
+
+## PART III:
+</br>
+For the last part of this assignment, we were asked to compare three of the cultures in the Harvard Art Museum website. I looked back at the CSV file and randomly picked two cultures with the third being the Moroccan culture I used in part two of this assignment. The cultures I picked were Brazilian and Venezuelan which was very exciting to me. I always joke around with my friends and cousins that I was South American in a past life, so I knew this was going to be enjoyable. 
+
+I started the assignment by running the notebook on Posit Cloud to see how the number of objects compared between the cultures as well as their accession years. Brazilian culture had almost three times as many objects as both the other cultures, however, they were all close in range with none being a significant outlier. The accession years of the objects was insightful as well. The graphs show Moroccan objects to be the ones most acquired over time, however, what I found quite surprising was that since I had just done the second part of the assignment on Moroccan objects, the jump in gifted pieces in 2023 was nowhere to be found on the graph. So I did start to question the credibility of the graphs knowing that the results I got before weren’t reflected completely. 
+
 
 
 
