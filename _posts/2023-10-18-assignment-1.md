@@ -52,15 +52,15 @@ For the last part of this assignment, we were asked to compare three of the cult
 
 I started the assignment by running the notebook on Posit Cloud to see how the number of objects compared between the cultures as well as their accession years. Brazilian culture had almost three times as many objects as both the other cultures, however, they were all close in range with none being a significant outlier. The accession years of the objects was insightful as well. The graphs show Moroccan objects to be the ones most acquired over time, however, what I found quite surprising was that since I had just done the second part of the assignment on Moroccan objects, the jump in gifted pieces in 2023 was nowhere to be found on the graph. So I did start to question the credibility of the graphs knowing that the results I got before weren’t reflected completely. 
 
-![Image from Posit Cloud.](/assets/images/A1-P3-1.jpg)
+![Image from Posit Cloud.](/assets/images/A1-P3-1.png)
 
 Moving on to the main goal of this section of the notebook, the word cloud comparison of the objects in the three cultures does tell us a lot more about the reasons behind their acquisition. Starting with the first culture, the Moroccan word cloud was very reflective of the Moroccan objects being mainly textiles and pottery fragments. In fact one of the most prominent words in the cloud was “fragment.” Other words included “cloth,” “embroidered,” and “runner,” all of which are very connected to rugs and textiles that we have seen in assignment two. I was just surprised to not see any words relating to the work by Lalla Essaydi’s photography. 
 
-![Image from Posit Cloud.](/assets/images/A1-P3-2.jpg)
+![Image from Posit Cloud.](/assets/images/A1-P3-2.png)
 
 Moving on to the second culture, Brazilian objects seem to be often in connection to Rio de Janeiro since the word fills up the largest part of the cloud. I can assume from the word cloud that a lot of the acquired pieces are themed around landscapes. A lot of the words on the word cloud are “garden,” “garland,” “spring,” and “leaves.” Artworks probably are in the form of prints or beadwork as those two words also seem relevant on the cloud. Overall from the word cloud, the glimpse I get into Brazilian objects at the Harvard Art Museum are in relation to the landscape or the coat of arms in Brazil. 
 
-![Image from Posit Cloud.](/assets/images/A1-P3-3.jpg)
+![Image from Posit Cloud.](/assets/images/A1-P3-3.png)
 
 Finally, the Venezuelan culture which had the least number of objects to begin with and their total count being less than 10 objects, I would assume the notebook would better analyse the small acquisition. Again we see beads in the wordcloud and references to landscape, however in contrast to Brazil, the landscape of Venezuela is more so about the architecture than nature. There is also mention of oil which can be either crude oil or oil paint, and knowing anything about Venezuela, crude oil is a very prominent part of the country’s GDP. A name however, Herrera, comes up as the most prominent in the cloud. It could allude to the pieces being from the same artist named Herrera or about a figure named Herrera, as far as I know the only Venezuelan Herrera of importance to me is the football player. 
 
