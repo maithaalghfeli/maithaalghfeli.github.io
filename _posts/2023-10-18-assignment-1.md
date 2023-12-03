@@ -7,7 +7,7 @@ tags:
 ---
 
 ## PART I:
-</br>
+<br/>
 The first step of the assignment is to compare parsing through the Harvard Art Museum’s collections and objects through their website to their CSV file from the Posit Cloud Jupyter Notebooks. This part of the assignment was started in class, and from the get-go it was clear that reading through a CSV file is not a simple feat. It is simply not very human friendly because all the information runs together as one large body. However, through the Harvard Art Museum’s web interface, objects from the collections are more often accompanied by photographs of the artefact as well as the information needed to understand its history and significance. 
 
 I was very intrigued by the idea of Special Collections on the HAM website, therefore, my collection focus was on that. Allan Burrough’s Collection of X-radiographs specifically interested me because the radiographs resembled art pieces of printmaking. I am currently enrolled in a printmaking class and it took me a while to realise radiographs were a form of photography and not printing. However, as soon as I started to dig deeper into this collection, I realised a lot of the pieces were not photographed, therefore there was no visual reference to them in the collection. I lost interest in the pieces that had no visual reference and only focused on the ones I can actually see. It made me question things like accessibility and how our eyes affect the way we interact with screens, and even physical spaces such as museums. On the HAM website, I was also able to see certain information about the pieces, such as who the original artist of the art that was radiographed is, its title, and object number. 
@@ -21,7 +21,7 @@ What I appreciated about parsing through the CSV file, is the ease by which I ca
 ![Image from Harvard Art Museum.](/image/A1-P1-2.jpeg)
 
 ## PART II:
-</br>
+<br/>
 For the second part of this exercise, I made sure to choose a culture that had a relatively small number of objects on the HAM website whilst still being somewhat relevant to my Arab background. That way I will be able to analyse all the objects against one another to determine why one is more or less relevant in terms of pageviews and to have an understanding of the art’s meaning in some form as well thereby deepening my analysis. 
 
 I chose the Moroccan culture off of the CSV file titled All_Culture_information.csv which had a total of 28 object entries. Twenty-eight objects gives me a large enough pool of information to compare while still staying somewhat small enough to look at every object closely.  
@@ -47,7 +47,7 @@ Initially just looking at the spread of objects on Posit Cloud, I can see that a
 This method of parsing through a culture was very eye opening to me. As a type A person myself, I enjoy classification more than anything, and being able to pinpoint all objects within a specific tag instead of individually finding them on the website was very helpful. It makes understanding acquisition patterns at museums a lot simpler to analyse. 
 
 ## PART III:
-</br>
+<br/>
 For the last part of this assignment, we were asked to compare three of the cultures in the Harvard Art Museum website. I looked back at the CSV file and randomly picked two cultures with the third being the Moroccan culture I used in part two of this assignment. The cultures I picked were Brazilian and Venezuelan which was very exciting to me. I always joke around with my friends and cousins that I was South American in a past life, so I knew this was going to be enjoyable. 
 
 I started the assignment by running the notebook on Posit Cloud to see how the number of objects compared between the cultures as well as their accession years. Brazilian culture had almost three times as many objects as both the other cultures, however, they were all close in range with none being a significant outlier. The accession years of the objects was insightful as well. The graphs show Moroccan objects to be the ones most acquired over time, however, what I found quite surprising was that since I had just done the second part of the assignment on Moroccan objects, the jump in gifted pieces in 2023 was nowhere to be found on the graph. So I did start to question the credibility of the graphs knowing that the results I got before weren’t reflected completely. 
