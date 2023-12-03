@@ -20,6 +20,15 @@ What I appreciated about parsing through the CSV file, is the ease by which I ca
 
 ![Image from Harvard Art Museum.](/image/Japan.jpeg)
 
+## PART II:
+</br>
+For the second part of this exercise, I made sure to choose a culture that had a relatively small number of objects on the HAM website whilst still being somewhat relevant to my Arab background. That way I will be able to analyse all the objects against one another to determine why one is more or less relevant in terms of pageviews and to have an understanding of the art’s meaning in some form as well thereby deepening my analysis. 
+
+I chose the Moroccan culture off of the CSV file titled All_Culture_information.csv which had a total of 28 object entries. Twenty-eight objects gives me a large enough pool of information to compare while still staying somewhat small enough to look at every object closely.  
+
+![Image from Posit Cloud.](/image/A1-P2-1.png.jpeg)
+
+
 
 
 
