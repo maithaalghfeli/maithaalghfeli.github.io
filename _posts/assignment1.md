@@ -28,6 +28,9 @@ I chose the Moroccan culture off of the CSV file titled All_Culture_information.
 
 ![Image from Posit Cloud.](/image/A1-P2-1.png.jpeg)
 
+Since Moroccan culture has existed for over a thousand years, I avoided specifying a century in the initial run of the program as I wanted to see what time period the objects collected by the Harvard Art Museum came from or whether they were periodically spread out. I started with the descending classification of Moroccan culture to get a sense of what people were intrigued by or searched for more. 
+
+![Image from Posit Cloud.](/image/A1-P2-2.png.jpeg)
 
 
 
