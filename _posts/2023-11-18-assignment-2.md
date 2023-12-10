@@ -25,6 +25,23 @@ Sense and Sensibility revolves around the Dashwood sisters, Elinor and Marianne,
 
 Persuasion tells the story of Anne Elliot, who, persuaded by others, broke off an engagement with Captain Frederick Wentworth years earlier. The novel explores themes of second chances and the consequences of societal expectations. As Anne and Captain Wentworth cross paths again, they must confront their past and navigate the complexities of love and social status.
 
+## Analysis in R:
+<br>
+
+![Image from Posit Cloud.](/assets/images/A2-P2-1.png)
+
+With the analysis on R, the most frequently used words in all three texts seem to mainly consist of character names. However, as we page through the list, we can extract what the main subject of Austen’s texts revolve around. Austen writes mostly about feelings, courtship, and family dynamics. Words like pleasure, happiness, comfort, and heart make it to the list. While the rest mainly consist of characters. There seems to also be a focus on female characters throughout all the texts. When compared to the films, it does stand true that most of Jane Austen’s work is about women and their dynamics either in family or in love. She explores topics of sisterhood in all her texts and that is showcased in the analysis. What I can see through the analysis of the MFW on R is that elizabeth is the most common word across all three texts. While looking deeper into the individual plots of each story, it does make sense since Austen chooses to name two of her main characters in different books with that name. 
+
+![Image from Posit Cloud.](/assets/images/A2-P2-2.png)
+
+Moving on to the linear analysis of the words, I chose to compare both texts to Pride and Prejudice. “Affections” and “Acquainted” appear to be some of the most common words to overlap between the texts. Again going back to the main plots, this makes sense since most of Austen’s writing revolves around courtship, affection, and acquaintance. Relationships is a major theme in all three texts. However, an interesting finding in the linear analysis is that family does not appear on the plot between Pride and Prejudice and Persuasion. In looking at the plots of both books further, Pride and Prejudice heavily focuses on family, whereas Persuasion looks into the life of Anne Elliot and her broken engagement. We see the rise of the word family between Sense and Sensibility and Pride and Prejudice because both focus on the dynamics of courtship within the sphere of sisterhood and close family. The name Elizabeth also becomes an overlapping name across the latter books as we discussed previously with the MFW analysis. 
+
+![Image from Posit Cloud.](/assets/images/A2-P2-3.png)
+
+Overall, through the analysis on R, Austen’s themes are well represented through a linear distant analysis. Austen’s writing does appear feminine in the sense that it focuses on emotions and women more than it would actions and movement. It does make me wonder whether her feminine writing under a masculine pen name propelled her books in her society. Could a man writing about emotions have an effect on women wanting to read more about it? Would women be more inclined to pick up the books to understand how men see them and the interplay of emotions of the opposite sex? The books cover romance and family, so it does beg the question of feminine versus masculine writing. It would be interesting to take Austen’s book and compare them further against a male writer of the same time period to compare the prevalence of emotional adjectives across both.  
+
+
+
 
 
 
