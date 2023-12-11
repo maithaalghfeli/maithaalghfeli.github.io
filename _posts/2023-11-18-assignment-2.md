@@ -68,6 +68,7 @@ It's crucial to note that some words may have multiple definitions, and their in
 
 
 **Persuasion (1818):**
+
 ![Image from Posit Cloud.](/assets/images/A2-T1.png)
 
 
