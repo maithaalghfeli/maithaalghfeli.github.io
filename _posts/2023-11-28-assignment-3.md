@@ -8,7 +8,8 @@ tags:
 
 ## Step 1: Choosing A Source
 <br>
-Travel Guide to Chennai
+
+*Travel Guide to Chennai*
 
 For this assignment I chose source #3, Travel Guide to Chennai. On looking through the provided sources, I found the fact that Chennai’s travel guide mostly focused on medical tourism quite intriguing. Having previously associated Chennai with vibrant colours, temples, a bursting coastline, and a city with a rich history; the travel guide was not what I had expected. However, upon reading the summarised information in each section of the guide, I found out that Chennai has been dubbed to be India’s health capital. Going through the rest of the document, it becomes apparent that entertainment, amusement parks, and movie theatres follow suit with Chennai’s medical tourism. The coupling of health and entertainment begs the assumption that mental health is just as important as physical health. Maintaining a state of ease, relaxation, and happiness through Chennai’s national, amusement, and water parks is crucial to its health tourism whether the families of patients are over to visit or patients themselves having a breath of fresh air. 
 
