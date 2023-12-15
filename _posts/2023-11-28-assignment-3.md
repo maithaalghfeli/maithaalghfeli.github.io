@@ -9,7 +9,7 @@ tags:
 ## Step 1: Choosing A Source
 <br>
 
-*Travel Guide to Chennai*
+[*Travel Guide to Chennai*](https://archive.org/details/TravelGuideToChennai/page/n5/mode/2up)
 
 For this assignment I chose source #3, Travel Guide to Chennai. On looking through the provided sources, I found the fact that Chennai’s travel guide mostly focused on medical tourism quite intriguing. Having previously associated Chennai with vibrant colours, temples, a bursting coastline, and a city with a rich history; the travel guide was not what I had expected. However, upon reading the summarised information in each section of the guide, I found out that Chennai has been dubbed to be India’s health capital. Going through the rest of the document, it becomes apparent that entertainment, amusement parks, and movie theatres follow suit with Chennai’s medical tourism. The coupling of health and entertainment begs the assumption that mental health is just as important as physical health. Maintaining a state of ease, relaxation, and happiness through Chennai’s national, amusement, and water parks is crucial to its health tourism whether the families of patients are over to visit or patients themselves having a breath of fresh air. 
 
@@ -73,7 +73,7 @@ I launched the Geocode by Awesome Table extension to automate the geocoding proc
 
 ![Image from Google Sheets.](/assets/images/A3-P4-2.png)
 
-I then exported the full sheet as a CSV file to be moved to kepler.gl and ran the map. The result I initially got was a mere cluster of all the hospitals in one colour. 
+I then exported the full sheet as a CSV file to be moved to [*kepler.gl*](https://kepler.gl) and ran the map. The result I initially got was a mere cluster of all the hospitals in one colour. 
 
 ![Image from Kepler.](/assets/images/A3-P4-4.png)
 
