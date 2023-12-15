@@ -6,7 +6,7 @@ tags:
   - Assignments
 ---
 
-*Below are the embedded files to the two parts of my final portfolio*
+*Below are the embedded files to the two parts of my final portfolio. They exist in the asset folder /assets/files as well in both PDF and editable formats.*
 
 # Project Summary
 
