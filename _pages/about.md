@@ -5,6 +5,7 @@ title: "About"
 <br>
 
 ### This site is a reflection of my semester long coursework under the mentorship of Professor David Wrisley at NYUAD. 
+<br> 
 
 On the site, you will find my work in data analysis through various tools and algorithms. Assignments 1, 2, and 3, each explore a different method of analysis whether through creating thematic word clouds or geocoding and spatial mapping. You can learn more about the work I have done for the class and my digital literacy growth over the semester by reading the DLN page. 
 
